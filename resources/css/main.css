@@ -1,0 +1,8 @@
+body{
+    height: 100vh;
+}
+
+.main{
+    display: flex;
+    height: 100%;
+}

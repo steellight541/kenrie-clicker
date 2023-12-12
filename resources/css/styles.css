@@ -1,0 +1,16 @@
+/* css reset *  */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-size: medium;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    font-weight: normal;
+}
+
+body{
+	width: 100vw;
+}
